@@ -16,16 +16,27 @@ payment-example/
 
 ├── app/
 │   ├── main.py          # app entry point
+
 │   ├── database.py      # DB connection & session
+
 │   ├── models/
+
 │   │   └── payment.py   # SQLAlchemy model
+
 │   ├── schemas/
+
 │   │   └── payment.py   # Pydantic schemas
+
 │   └── routers/
+
 │       └── payment.py   # API routes
+
 ├── docker-compose.yml
+
 ├── Dockerfile
+
 ├── requirements.txt
+
 └── .env
 ## Getting Started
 
