@@ -7,3 +7,4 @@ venv/tmp-stress-ng*
 venv/*.tar.gz
 kubectl
  f32c379faa27fe955073d499d17ef391721a5e49
+tmp-stress-ng-cgroup-31063-0/
