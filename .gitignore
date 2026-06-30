@@ -4,3 +4,6 @@ __pycache__/
 *.egg-info/
 .venv/
 venv/tmp-stress-ng*
+venv/*.tar.gz
+kubectl
+ f32c379faa27fe955073d499d17ef391721a5e49
