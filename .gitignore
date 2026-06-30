@@ -3,4 +3,4 @@ __pycache__/
 .env
 *.egg-info/
 .venv/
-venv/
+venv/tmp-stress-ng*
